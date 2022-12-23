@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "812655756195",
+    "firebase_url": "https://metro-transit-app-default-rtdb.firebaseio.com",
+    "project_id": "metro-transit-app",
+    "storage_bucket": "metro-transit-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812655756195:android:0487ede3667389c4655016",
+        "android_client_info": {
+          "package_name": "com.tooensure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812655756195-lrefkj5np0nef732rkbame57p5qnl8vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAllF46Ld69_0Bo_2pX26k4qfbw3arDF4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812655756195-lrefkj5np0nef732rkbame57p5qnl8vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812655756195:android:b1145663fb0332cd655016",
+        "android_client_info": {
+          "package_name": "com.tooensure.auth.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812655756195-lrefkj5np0nef732rkbame57p5qnl8vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAllF46Ld69_0Bo_2pX26k4qfbw3arDF4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812655756195-lrefkj5np0nef732rkbame57p5qnl8vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812655756195:android:27290899455adc8a655016",
+        "android_client_info": {
+          "package_name": "com.tooensure.metrotransit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812655756195-lrefkj5np0nef732rkbame57p5qnl8vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAllF46Ld69_0Bo_2pX26k4qfbw3arDF4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812655756195-lrefkj5np0nef732rkbame57p5qnl8vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
